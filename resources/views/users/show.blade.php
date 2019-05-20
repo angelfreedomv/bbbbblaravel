@@ -22,9 +22,8 @@
               </div>
             </div>
             <hr>
-        
-     {{-- 用户发布的内容 --}}
-     <div class="card ">
+    {{-- 用户发布的内容 --}}
+    <div class="card ">
       <div class="card-body">
         <ul class="nav nav-tabs">
           <li class="nav-item">
